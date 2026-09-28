@@ -1382,6 +1382,10 @@ https://livetv.tarangplus.in/otv-origin/live/playlist.m3u8
 https://mumbai-edge.smartplaytv.in/DDKisan/index.m3u8
 #EXTINF:-1 tvg-id="DDMizoram.in@SD" tvg-logo="https://i.imgur.com/I5zT1DG.png" group-title="Culture;News",DD Mizoram (504p)
 https://d2lk5u59tns74c.cloudfront.net/out/v1/eea48c6b61074052a2fa8532ff795ff1/index.m3u8
+#EXTINF:-1 group-title="Sports",Unite8 Sports 1 UHD
+
+#EXTINF:-1 group-title="Sports",Unite8 Sports 2 UHD
+https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281311
 #EXTINF:-1 group-title="Sports",PTV Sports PK UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=689571
 #EXTINF:-1 group-title="Sports",Ten Sports PK UHD
