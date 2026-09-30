@@ -916,6 +916,10 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281632
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281631
 #EXTINF:-1 tvg-id="StarSports2Hindi.in@UHD" tvg-logo="https://i.imgur.com/kHerF19.png" group-title="Sports",Star Sports 2 Hindi UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=1170609
+#EXTINF:-1 tvg-id="StarSports3.in@SD" tvg-logo="http://greenpa1.com/ss3.png" group-title="Sports",Star Sports 3 SD
+https://streamflexsmm.in/SFlex-StarShare/1080.m3u8
+#EXTINF:-1 tvg-id="StarSports1Tamil.in@UHD" tvg-logo="http://103.176.90.118/picons-dino/logos/STAR-SPORTS-TAMIL.jpg" group-title="Sports",Star Sports 1 Tamil UHD
+https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281637
 #EXTINF:-1 tvg-id="StarSportsSelect1.in@UHD" group-title="Sports",Star Sports Select 1 UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281635
 #EXTINF:-1 tvg-id="StarSportsSelect2.in@UHD" tvg-logo="https://i.imgur.com/FtRT73R.png" group-title="Sports",Star Sports Select 2 UHD
@@ -928,34 +932,40 @@ https://game.playindia.fun/Jtv/oops.m3u8?id=sliv_162&token=RiYlIZ|User-Agent=Moz
 https://game.playindia.fun/Jtv/oops.m3u8?id=sliv_891&token=RiYlIZ|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F129.0.0.0%20Safari%2F537.36&domain=https://www.sonyliv.com&Referer=https://www.sonyliv.com/
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi HD (1080p)
 https://game.playindia.fun/Jtv/oops.m3u8?id=sliv_892&token=RiYlIZ|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F129.0.0.0%20Safari%2F537.36&domain=https://www.sonyliv.com&Referer=https://www.sonyliv.com/
-#EXTINF:-1 tvg-id="SonySportsTen4.in@Tamil" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/38_275.png" group-title="Sports",Sony Sports Ten 4 Tamil (720p)
+#EXTINF:-1 tvg-id="SonySportsTen4.in@Tamil" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/38_275.png" group-title="Sports",Sony Sports Ten 4 Tamil (576p)
 https://game.playindia.fun/Jtv/oops.m3u8?id=sliv_1775&token=RiYlIZ|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F129.0.0.0%20Safari%2F537.36&domain=https://www.sonyliv.com&Referer=https://www.sonyliv.com/
-#EXTINF:-1 group-title="Sports",Euro Sports UHD
-https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281625
+#EXTINF:-1 tvg-logo="https://i.ibb.co/1YMYVKj8/UNITE8-SPORTS-1-HD-logo-transparent.png" group-title="Sports",Unite8 Sports 1 UHD
+https://streamflexsmm.in/SFlex-StarShare/741567.m3u8
 #EXTINF:-1 group-title="Sports",Unite8 Sports 2 UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281311
+#EXTINF:-1 group-title="Sports",Euro Sports UHD
+https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281625
+#EXTINF:-1 tvg-id="ASports.pk@UHD" tvg-logo="https://i.ibb.co/R7Knx3z/unnamed.png" group-title="Sports",A Sports PK UHD
+https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=689574
 #EXTINF:-1 group-title="Sports",PTV Sports PK UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=689571
 #EXTINF:-1 group-title="Sports",Ten Sports PK UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=292979
-#EXTINF:-1 group-title="Sports",Cricbuzz Live IN UHD
+#EXTINF:-1 tvg-logo="http://greenpa1.com/geosuper.png" group-title="Sports",Geo Super PK UHD
+https://streamflexsmm.in/SFlex-StarShare/101.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="Sports",T Sports BD UHD
+https://streamflexsmm.in/SFlex-StarShare/18452.m3u8
+#EXTINF:-1 group-title="Sports",Cricbuzz Live 1 IN UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=689570
+#EXTINF:-1 tvg-id="Cricbuzz2.in@UHD" group-title="Sports",Cricbuzz Live 2 IN UHD
+https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=1303828
+#EXTINF:-1 tvg-logo="http://51.158.145.100/picons/logos/INDIANEW/ATNCRICKETPLUS.png" group-title="Sports",ATN Cricket Plus UHD
+https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=741865
 #EXTINF:-1 group-title="Sports",Willow Cricket UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=689572
-#EXTINF:-1 group-title="Sports",Sky Sports Cricket UHD
+#EXTINF:-1 group-title="Sports",Fox Cricket AU UHD
+https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=835819
+#EXTINF:-1 group-title="Sports",Sky Sports UK Cricket UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=689573
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons-dino/logos/skysport3hd.png" group-title="Sports",Sky Sports 3 NZ Cricket UHD
+https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=630589
 #EXTINF:-1 tvg-id="DDSports.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s158255_ld_h15_aa.png?lock=720x540" group-title="Sports",DD Sports SD (1080p)
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen5.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 5 (1080p)
-https://cloudplay-sonyliv.pages.dev/ten5.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen1.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 1 (1080p)
-https://cloudplay-sonyliv.pages.dev/ten1.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen2.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="Sports",Sony Sports Ten 2 (1080p)
-https://cloudplay-sonyliv.pages.dev/ten2.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="Sports",Sony Sports Ten 3 Hindi (1080p)
-https://cloudplay-sonyliv.pages.dev/ten3.m3u8
-#EXTINF:-1 tvg-id="SonySportsTen4.in@Tamil" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025T4PV.png?lock=720x540" group-title="Sports",Sony Sports Ten 4 (1080p)
-https://cloudplay-sonyliv.pages.dev/ten4.m3u8
 #EXTINF:-1 tvg-id="AadinathTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_AADINATH_TV/images/LOGO_HD/image.png" group-title="Religious",Aadinath TV (576p)
 https://mumt01.tangotv.in/O5aw8Zn3AADINATHTV/index.m3u8
 #EXTINF:-1 tvg-id="AaseervathamTV.in@SD" tvg-logo="https://i.imgur.com/GlfrYs7.png" group-title="Religious",Aaseervatham TV (576p)
