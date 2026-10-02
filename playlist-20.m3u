@@ -6,7 +6,7 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281284
 #EXTINF:-1 tvg-id="SonySet.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony SET HD (1080p)
 https://game.playindia.fun/Sliv/sliv_291/index.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="Entertainment",Colors HD (1080p)
-https://streamflexsmm.in/SFlex-StarShare/9370.m3u8
+https://ranapkz.site/RANAPKX73/MAXCDN/play.m3u8?id=944612
 #EXTINF:-1 tvg-id="ZeeTV.in@UHD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",Zee TV UHD (1080p)
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281277
 #EXTINF:-1 tvg-id="&TV.in@UHD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="Entertainment",&TV IN UHD (1080p)
@@ -16,7 +16,7 @@ https://sliv.tgaadi.workers.dev/sabhd.m3u8
 #EXTINF:-1 tvg-id="Dangal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="Entertainment",Dangal TV (720p)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="SonyPal.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s157973_ld_h15_aa.png?lock=720x540" group-title="Entertainment",Sony Pal (1080p)
-https://cloudplay-sonyliv.pages.dev/pal.m3u8
+https://ranapkz.site/RANAPKX73/MAXCDN/play.m3u8?id=373069
 #EXTINF:-1 tvg-id="ZeeAnmol.in@SD" tvg-logo="http://103.176.90.118/picons-dino/logos/ZEE-ANMOL.jpg" group-title="Entertainment",Zee Anmol (576p)
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281435
 #EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://i.imgur.com/BEr1r7L.png" group-title="Entertainment",Dangal 2 (720p)
@@ -47,6 +47,8 @@ https://d2lk5u59tns74c.cloudfront.net/out/v1/c313674ffced4c9a90f1bba436df2b9b/in
 http://107.167.16.138/ddnational/index.m3u8?token=test
 #EXTINF:-1 tvg-id="DDNational.in@HD" tvg-logo="https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/transparentImages/DD%20National.png" group-title="Entertainment",DD National HD (1080p)
 https://mumbai-edge.smartplaytv.in/DDNational/index.m3u8
+#EXTINF:-1 group-title="Entertainment",DD Rajasthan (Jaipur)
+https://ranapkz.site/RANAPKX73/MAXCDN/play.m3u8?id=373048
 #EXTINF:-1 tvg-id="EpicBharat.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" group-title="Entertainment",Epic Bharat (576p)
 https://mumt06.tangotv.in/qYyB8fXVEPICTV/index.m3u8
 #EXTINF:-1 tvg-id="EpicBharat.in@Digital" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0032BW6T.png?lock=720x540" group-title="Entertainment",Epic Bharat Digital (1080p)
@@ -942,12 +944,12 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281311
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281625
 #EXTINF:-1 tvg-id="ASports.pk@UHD" tvg-logo="https://i.ibb.co/R7Knx3z/unnamed.png" group-title="Sports",A Sports PK UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=689574
-#EXTINF:-1 group-title="Sports",PTV Sports PK UHD
-https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=689571
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/PAKISTAN/SPORTS/PTV" group-title="Sports",PTV Sports PK UHD
+https://ranapkz.site/RANAPKX73/MAXCDN/play.m3u8?id=911324
 #EXTINF:-1 group-title="Sports",Ten Sports PK UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=292979
-#EXTINF:-1 tvg-logo="http://greenpa1.com/geosuper.png" group-title="Sports",Geo Super PK UHD
-https://streamflexsmm.in/SFlex-StarShare/101.m3u8
+#EXTINF:-1 tvg-logo="http://picon.tivi-ott.net:25461/picon/ASIA/PAKISTAN/geosuper.png" group-title="Sports",Geo Super PK UHD
+https://ranapkz.site/RANAPKX73/MAXCDN/play.m3u8?id=373118
 #EXTINF:-1 tvg-logo="https://i.ibb.co/34FSKYK/images.png" group-title="Sports",T Sports BD UHD
 https://streamflexsmm.in/SFlex-StarShare/18452.m3u8
 #EXTINF:-1 group-title="Sports",Cricbuzz Live 1 IN UHD
