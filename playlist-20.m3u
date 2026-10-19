@@ -26,7 +26,7 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281284
 #EXTINF:-1 tvg-id="SonySet.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159096_ld_h15_aa.png?lock=720x540" group-title="India LIVE TV",Sony SET HD (1080p)
 https://game.playindia.fun/Sliv/sliv_291/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="India LIVE TV",Colors SD
-http://51.75.127.199:3141/colorssd/index.m3u8
+https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main/streams/sg/YuppTV/ColorsAPAC.m3u8
 #EXTINF:-1 tvg-id="Colors.in@HD" tvg-logo="https://i.imgur.com/M8uCJ0D.png" group-title="India LIVE TV",Colors HD (1080p)
 https://ranapkz.site/RANAPKX73/MAXCDN/play.php?id=944612
 #EXTINF:-1 tvg-id="ZeeTV.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_ZEE_TV/images/LOGO_HD/LOGO_HD_image.png" group-title="India LIVE TV",Zee TV SD
@@ -35,6 +35,8 @@ http://51.75.127.199:3141/zeetv/index.m3u8
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281277
 #EXTINF:-1 tvg-id="&TV.in@UHD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SYMANDTV/images/LOGO_HD/LOGO_HD_image.png" group-title="India LIVE TV",&TV IN UHD (1080p)
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281314
+#EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="India LIVE TV",Sony SAB SD (720p)
+https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="India LIVE TV",Sony SAB HD (1080p)
 https://fifabdmob.site/TG@RANAPKBD/MAC/SBHGOLD/play.m3u8?id=281293
 #EXTINF:-1 tvg-id="Dangal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="India LIVE TV",Dangal TV (720p)
