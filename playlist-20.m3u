@@ -999,15 +999,15 @@ http://51.75.127.199:3141/starsportskhel/index.m3u8
 #EXTINF:-1 group-title="World TV Sports",Sports18 1 English
 http://51.75.127.199:3141/sports18/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen5.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_5/images/LOGO_HD/image.png" group-title="World TV Sports",Sony Sports Ten 5 HD (1080p)
-https://dishmt.slivcdn.com/hls/live/2020593/SONYSIXHD/hdntl=exp=1792659708~acl=%2f*~id=71beb567-0ffd-4de2-8b94-b6865322d816~data=hdntl~hmac=2ec8d66124a0c989f968f78abb0e9b9a7824e094428bc2592e7d65629968d5f6/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAD80NlqAAAAACoA8%2fbjGKteEXmN+i5P72l1qqhKWXr2rFCwWw9UG8uJ66mde%2fvSRmNsboTsXUmFGQ4Zviedf6Ex&aka_media_format_type=hls
+https://game.playindia.fun/Sliv/sliv_155/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="World TV Sports",Sony Sports Ten 1 HD (1080p)
-https://dishmt.slivcdn.com/hls/live/2011747/TEN1HD/hdntl=exp=1792670513~acl=%2f*~id=cc9d6bc0-c883-4cb8-af15-f7adee7143f5~data=hdntl~hmac=64c0429ef0360eb6f65386278346f260484cea57a9c29c55a2dba6169e1aa63b/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAAx+9lqAAAAAIuN0qwacm5JInS0DhSfvX6Wn1WxocFEAlWwuDNMIWjlwPaRTkV0TUJSlwllUQ9%2fwo17wIc7X%2fSQ&aka_media_format_type=hls
+https://game.playindia.fun/Sliv/sliv_162/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="World TV Sports",Sony Sports Ten 2 HD (1080p)
 https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1792692102~acl=%2f*~id=7db6fc45-636c-4dd7-bf67-25c6c6ab286a~data=hdntl~hmac=1795b82dc626ef9a81c842084df542cafe577e0aed956e6046032c40226e3b53/master_3500.m3u8?aka_me_session_id=AAAAAAAAAACGT9pqAAAAAMtt78d8Dojre4j05FagT9GIkKRwTDRnyhbfoPGEJPO7wRbZDiNEYubz5XJtBS%2fjfRVQevz3TLzT&aka_media_format_type=hls
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="World TV Sports",Sony Sports Ten 3 Hindi HD (1080p)
-https://dishmt.slivcdn.com/hls/live/2020591/TEN3HD/hdntl=exp=1792657309~acl=%2f*~id=91d042c1-0b0c-4bc8-81d3-69d2b001ff28~data=hdntl~hmac=810ba0ebb2278b2000c6217bfbfe4cda03e5ff000317af2fb5064b73ed3f3c99/master_3500.m3u8?aka_me_session_id=AAAAAAAAAACdx9lqAAAAAFtbRIDaZb%2fJXSnqw5qw6OCpGeoxNwW%2fzh1dKrRoYFK3ckP09oQd3dr61FUTey7baTiqLqwoxOEX&aka_media_format_type=hls
+https://game.playindia.fun/Sliv/sliv_892/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Tamil" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/38_275.png" group-title="World TV Sports",Sony Sports Ten 4 Tamil (576p)
-https://dishmt.slivcdn.com/hls/live/2020437/ten4sd/hdntl=exp=1792670513~acl=%2f*~id=cc9d6bc0-c883-4cb8-af15-f7adee7143f5~data=hdntl~hmac=64c0429ef0360eb6f65386278346f260484cea57a9c29c55a2dba6169e1aa63b/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAAx+9lqAAAAANhfeNt45OMApk8qNxkx6OeVJqZb+obvNyfiU8o5KrV2Vi64px81bHwcf3lVNrrgurcd2hdNWVDL&aka_media_format_type=hls
+https://game.playindia.fun/Sliv/sliv_1775/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YMYVKj8/UNITE8-SPORTS-1-HD-logo-transparent.png" group-title="World TV Sports",Unite8 Sports 1 UHD
 https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281310
 #EXTINF:-1 tvg-logo="https://i.ibb.co/1YMYVKj8/UNITE8-SPORTS-1-HD-logo-transparent.png" group-title="World TV Sports",Unite8 Sports 2 UHD
