@@ -38,7 +38,7 @@ https://bdix.spidy.online/MAC/SBHGOLD/play.m3u8?id=281314
 #EXTINF:-1 tvg-id="SonySAB.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="India LIVE TV",Sony SAB SD (720p)
 https://drk6xq0vhn.gpcdn.net/live/sub_hd_abr/index.m3u8
 #EXTINF:-1 tvg-id="SonySAB.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/s159099_ld_h15_ab.png?lock=720x540" group-title="India LIVE TV",Sony SAB HD (1080p)
-https://dishmt.slivcdn.com/hls/live/2011749/SABHD/hdntl=exp=1792684810~acl=%2f*~id=d5057fda-6b98-4b4c-926c-98c588234be5~data=hdntl~hmac=16a7927cb232ebe96b92aeb44ff0c696974aa65fcd7e218296a3e85650d9ca52/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAAKM9pqAAAAAHBaAL67nc1rbz3mYg1yOA5OQNhG5TSGKZEmUR8FNzmdFkCfNJG8Ih0J9KkE%2fsuwZfLtELTffkkm&aka_media_format_type=hls
+https://game.playindia.fun/Sliv/sliv_471/index.m3u8
 #EXTINF:-1 tvg-id="Dangal.in@SD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_DANGAL/images/LOGO_HD/image.png" group-title="India LIVE TV",Dangal TV (720p)
 https://live-dangal.akamaized.net/liveabr/playlist.m3u8
 #EXTINF:-1 tvg-id="Dangal2.in@SD" tvg-logo="https://i.imgur.com/BEr1r7L.png" group-title="India LIVE TV",Dangal 2 (720p)
@@ -1003,7 +1003,7 @@ https://game.playindia.fun/Sliv/sliv_155/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen1.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_1/images/LOGO_HD/image.png" group-title="World TV Sports",Sony Sports Ten 1 HD (1080p)
 https://game.playindia.fun/Sliv/sliv_162/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen2.in@HD" tvg-logo="https://xstreamcp-assets-msp.streamready.in/assets/LIVETV/LIVECHANNEL/LIVETV_LIVETVCHANNEL_SONY_SPORTS_TEN_2/images/LOGO_HD/image.png" group-title="World TV Sports",Sony Sports Ten 2 HD (1080p)
-https://dishmt.slivcdn.com/hls/live/2020434/TEN2HD/hdntl=exp=1792692102~acl=%2f*~id=7db6fc45-636c-4dd7-bf67-25c6c6ab286a~data=hdntl~hmac=1795b82dc626ef9a81c842084df542cafe577e0aed956e6046032c40226e3b53/master_3500.m3u8?aka_me_session_id=AAAAAAAAAACGT9pqAAAAAMtt78d8Dojre4j05FagT9GIkKRwTDRnyhbfoPGEJPO7wRbZDiNEYubz5XJtBS%2fjfRVQevz3TLzT&aka_media_format_type=hls
+https://game.playindia.fun/Sliv/sliv_891/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen3Hindi.in@HD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG0025TCMR.png?lock=720x540" group-title="World TV Sports",Sony Sports Ten 3 Hindi HD (1080p)
 https://game.playindia.fun/Sliv/sliv_892/index.m3u8
 #EXTINF:-1 tvg-id="SonySportsTen4.in@Tamil" tvg-logo="https://d2ljy97uzhlwv2.cloudfront.net/sonypicturesnetworksindia/logo/38_275.png" group-title="World TV Sports",Sony Sports Ten 4 Tamil (576p)
