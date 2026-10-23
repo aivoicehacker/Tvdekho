@@ -730,8 +730,12 @@ https://raw.githubusercontent.com/amazeyourself/adaptive-streams/refs/heads/main
 https://d116gfrn8orazi.cloudfront.net/index.m3u8?akes=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE3NjcxOTc5NzJ9.O4qmdMPbHwKrCg6hFXvD70vjSPWKQd0a7NrjmFdeMB8
 #EXTINF:-1 tvg-id="ZeeUttarPradeshUttarakhand.in@SD" tvg-logo="https://dtil.tmsimg.com/assets/GNLZZGG002317GQ.png?lock=720x540" group-title="India News",Zee Uttar Pradesh/Uttarakhand (720p)
 https://duw35ict5q7th.cloudfront.net/index_3.m3u8
-#EXTINF:-1 group-title="FanCode LIVE TV 24/7",Upcoming Match vs Upcoming Match
-http://202.70.140000006.135:8004/play/a009/index.m3u8
+#EXTINF:-1 group-title="FanCode LIVE TV 24/7",Cricket ENG | TBD Vs TBD Live
+https://dai-fancode.pages.dev/mumbai/4249697_english_hls_7444655df2273_1ta-di_h264/index.m3u8%7CUser-Agent=ReactNativeVideo/9.11.1%20(Linux;Android%2013)%20AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 group-title="FanCode LIVE TV 24/7",Cricket ENG | TBD Vs TBD Live
+https://dai-fancode.pages.dev/mumbai/4250482_english_hls_5de76197b666269_1ta-di_h264/index.m3u8%7CUser-Agent=ReactNativeVideo/9.11.1%20(Linux;Android%2013)%20AndroidXMedia3/1.6.1&Referer=https://fancode.com/
+#EXTINF:-1 group-title="FanCode LIVE TV 24/7",Cricket ENG | TBD Vs TBD Live
+https://dai-fancode.pages.dev/mumbai/4249762_english_hls_7196c908bd11643_1ta-di_h264/index.m3u8%7CUser-Agent=ReactNativeVideo/9.11.1%20(Linux;Android%2013)%20AndroidXMedia3/1.6.1&Referer=https://fancode.com/
 #EXTINF:-1 group-title="PAK LIVE TV",Ary Digital
 https://dishmt./hls/live///hdntl=exp=1792659708~acl=%2f*~id=71beb567-0ffd-4de2-8b94-b6865322d816~data=hdntl~hmac=2ec8d66124a0c989f968f78abb0e9b9a7824e094428bc2592e7d65629968d5f6/master_3500.m3u8?aka_me_session_id=AAAAAAAAAAD80NlqAAAAACoA8%2fbjGKteEXmN+i5P72l1qqhKWXr2rFCwWw9UG8uJ66mde%2fvSRmNsboTsXUmFGQ4Zviedf6Ex&aka_media_format_type=hls
 #EXTINF:-1 group-title="Afghanistan LIVE TV",Lamar TV Kabul
